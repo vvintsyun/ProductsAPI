@@ -1,4 +1,4 @@
-The requirement for task:
+This solution contains implementation and tests for the following task:
 
 Create a .NET Core solution to contain an HTTP endpoint that:
 1. Accepts a GET request with three optional query parameters to filter products or
@@ -24,3 +24,7 @@ Example of data is duplicated in file Data/data.json
     provided in the highlight parameter.
     Example: “These trousers make a perfect pair with <em>green</em> or
     <em>blue</em> shirts.”
+
+
+
+   
